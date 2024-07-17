@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-color: purple;
+}
+h2{
+    background-color: chartreuse;
+}
+h3{
+    color:white
+}
+p{
+    background-color: cornflowerblue;
+    color:white
+}
+ol{
+    list-style-type: upper-roman;
+    color:red
+}
+ul{
+    list-style-type: circle;
+    color: red;
+}

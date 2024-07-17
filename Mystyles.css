@@ -1,0 +1,12 @@
+body{
+    background-color: blanchedalmond;
+    font-size: medium;
+    font-style: italic;
+}
+h1{
+    color: pink;
+}
+body,h1,h2,h3,ul,ol,li{
+    margin: 5;
+    padding: 5;
+}
